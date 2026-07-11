@@ -96,6 +96,9 @@ class Solution {
         }
 
         // Return the final state of the asteroids after all collisions
+
+        // Done today
+        
         return result; 
     }
 }
