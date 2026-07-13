@@ -36,6 +36,7 @@
 ## Design
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -45,4 +46,16 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
