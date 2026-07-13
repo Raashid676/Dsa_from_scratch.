@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
+| [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -32,4 +33,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
