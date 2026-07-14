@@ -8,6 +8,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
+| [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
