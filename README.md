@@ -9,6 +9,7 @@
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
+| [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
+| [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
