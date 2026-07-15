@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0046-permutations) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
