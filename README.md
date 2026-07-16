@@ -12,6 +12,7 @@
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
 ## Stack
 |  |
@@ -34,6 +35,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
@@ -63,6 +65,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
 | [0966-binary-subarrays-with-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
@@ -83,6 +86,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -96,4 +100,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0046-permutations) |
+## Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
