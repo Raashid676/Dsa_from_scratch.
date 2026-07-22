@@ -60,6 +60,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -70,6 +71,7 @@
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0076-minimum-window-substring) |
+| [0355-design-twitter](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
