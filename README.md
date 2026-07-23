@@ -10,6 +10,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
@@ -61,6 +62,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0076-minimum-window-substring) |
+| [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
@@ -142,6 +145,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1034-subarrays-with-k-different-integers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -158,6 +162,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
@@ -169,6 +174,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
@@ -177,6 +183,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -202,4 +209,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0789-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
