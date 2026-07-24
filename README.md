@@ -17,6 +17,7 @@
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
@@ -201,6 +202,7 @@
 | [0455-assign-cookies](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0890-lemonade-change) |
 ## Tree
 |  |
 | ------- |
