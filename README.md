@@ -29,6 +29,7 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
 ## Simulation
@@ -142,6 +143,7 @@
 | [0076-minimum-window-substring](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
@@ -201,6 +203,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0890-lemonade-change) |
 ## Tree
@@ -219,4 +222,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
