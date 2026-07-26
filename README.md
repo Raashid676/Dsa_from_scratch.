@@ -15,6 +15,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0500-keyboard-row) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
@@ -104,6 +105,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0460-lfu-cache) |
+| [0500-keyboard-row](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0500-keyboard-row) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0966-binary-subarrays-with-sum) |
@@ -145,6 +147,7 @@
 | [0076-minimum-window-substring](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
