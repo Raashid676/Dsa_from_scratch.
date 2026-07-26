@@ -1,39 +1,31 @@
 class Solution {
-    public String[] findWords(String[] words) {
-        String[] rows = {"qwertyuiop", "asdfghjkl", "zxcvbnm"};
-        List<String> result = new ArrayList<>();
+    private final int[] charToRow;
+    
+    public Solution() {
+        charToRow = new int[26];
         
-        for (String word : words) {
-            if (canBeTypedInOneRow(word, rows)) {
-                result.add(word);
-            }
-        }
-        
-        return result.toArray(new String[0]);
+        for (char c : "qwertyuiop".toCharArray()) charToRow[c - 'a'] = 0;
+        for (char c : "asdfghjkl".toCharArray()) charToRow[c - 'a'] = 1;
+        for (char c : "zxcvbnm".toCharArray()) charToRow[c - 'a'] = 2;
     }
     
-    private boolean canBeTypedInOneRow(String word, String[] rows) {
-        String lowerWord = word.toLowerCase();
+    public String[] findWords(String[] words) {
+        return Arrays.stream(words)
+            .filter(this::canTypeInOneRow)
+            .toArray(String[]::new);
+    }
+    
+    private boolean canTypeInOneRow(String word) {
+        if (word.isEmpty()) return false;
         
-        for (String row : rows) {
-            HashSet<Character> rowSet = new HashSet<>();
-            for (char c : row.toCharArray()) {
-                rowSet.add(c);
-            }
-            
-            boolean allInRow = true;
-            for (char c : lowerWord.toCharArray()) {
-                if (!rowSet.contains(c)) {
-                    allInRow = false;
-                    break;
-                }
-            }
-            
-            if (allInRow) {
-                return true;
+        int row = charToRow[Character.toLowerCase(word.charAt(0)) - 'a'];
+        
+        for (int i = 1; i < word.length(); i++) {
+            if (charToRow[Character.toLowerCase(word.charAt(i)) - 'a'] != row) {
+                return false;
             }
         }
         
-        return false;
+        return true;
     }
 }
