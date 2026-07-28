@@ -16,6 +16,7 @@
 | [0239-sliding-window-maximum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0500-keyboard-row) |
@@ -189,6 +190,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
@@ -213,6 +215,7 @@
 | [0045-jump-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
@@ -240,5 +243,6 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
