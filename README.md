@@ -9,6 +9,7 @@
 | [0045-jump-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
