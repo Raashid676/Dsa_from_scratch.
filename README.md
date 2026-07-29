@@ -36,6 +36,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
@@ -225,6 +226,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -233,6 +235,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
@@ -245,4 +248,8 @@
 | [0055-jump-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
