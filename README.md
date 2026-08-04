@@ -239,6 +239,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -259,6 +260,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -285,6 +287,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -301,4 +304,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0175-combine-two-tables) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
