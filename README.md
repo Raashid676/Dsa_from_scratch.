@@ -293,6 +293,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3561-remove-methods-from-project](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3561-remove-methods-from-project](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3561-remove-methods-from-project) |
 ## Database
 |  |
 | ------- |
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
