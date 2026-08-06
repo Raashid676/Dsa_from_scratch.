@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3626-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -327,4 +328,8 @@
 |  |
 | ------- |
 | [3561-remove-methods-from-project](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3561-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
