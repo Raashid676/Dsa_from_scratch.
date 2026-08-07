@@ -159,6 +159,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
@@ -170,11 +171,13 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0046-permutations) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +231,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0890-lemonade-change) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
 | ------- |
@@ -332,4 +336,8 @@
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3626-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
