@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -240,6 +243,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
@@ -263,6 +267,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
