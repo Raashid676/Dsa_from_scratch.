@@ -163,6 +163,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
@@ -197,6 +198,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0455-assign-cookies) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0890-lemonade-change) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -296,6 +299,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
 | ------- |
