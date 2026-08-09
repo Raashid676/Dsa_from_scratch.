@@ -30,6 +30,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -154,6 +155,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
@@ -184,6 +186,7 @@
 ## Math
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -307,6 +310,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
+| [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
@@ -365,4 +369,16 @@
 |  |
 | ------- |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
