@@ -23,6 +23,7 @@
 | [0455-assign-cookies](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0500-keyboard-row) |
 | [0621-task-scheduler](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0621-task-scheduler) |
+| [0654-maximum-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
@@ -42,6 +43,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0145-binary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
@@ -100,6 +102,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0654-maximum-binary-tree) |
 | [0937-online-stock-span](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -199,6 +202,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0654-maximum-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,6 +271,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0789-kth-largest-element-in-a-stream) |
@@ -296,6 +301,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0789-kth-largest-element-in-a-stream) |
@@ -384,4 +390,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
