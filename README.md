@@ -191,6 +191,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
+| [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
@@ -320,6 +321,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
@@ -382,16 +384,27 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 ## Cartesian Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0654-maximum-binary-tree) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
