@@ -36,6 +36,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
 |  |
@@ -131,6 +132,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
@@ -225,6 +227,7 @@
 | [0876-hand-of-straights](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quickselect
 |  |
 | ------- |
@@ -409,7 +412,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
