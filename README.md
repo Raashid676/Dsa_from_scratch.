@@ -37,6 +37,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2319-longest-substring-of-one-repeating-character) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
@@ -74,6 +75,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
@@ -133,6 +135,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
@@ -422,7 +425,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
