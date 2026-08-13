@@ -34,6 +34,7 @@
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1522-stone-game-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2319-longest-substring-of-one-repeating-character) |
@@ -198,6 +199,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1370-count-number-of-nice-subarrays) |
+| [1522-stone-game-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -341,6 +343,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
@@ -406,16 +409,19 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
 ## Cartesian Tree
 |  |
@@ -425,7 +431,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
