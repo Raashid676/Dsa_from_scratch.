@@ -36,6 +36,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1755-defuse-the-bomb) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
@@ -174,6 +175,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Counting
@@ -420,8 +422,16 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1617-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2319-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2319-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
