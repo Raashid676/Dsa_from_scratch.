@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Math
 |  |
 | ------- |
+| [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Greedy
 |  |
@@ -24,6 +26,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
@@ -37,6 +40,7 @@
 |  |
 | ------- |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 ## Tree
 |  |
 | ------- |
