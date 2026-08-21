@@ -9,11 +9,13 @@
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
@@ -95,4 +99,12 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
+## Combinatorics
+|  |
+| ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
