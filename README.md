@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
@@ -58,6 +59,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
@@ -91,6 +93,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
@@ -99,6 +102,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -108,6 +112,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
