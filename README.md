@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
+| [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
+| [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
+| [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 <!---LeetCode Topics End-->
