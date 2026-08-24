@@ -10,6 +10,7 @@
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -30,6 +32,7 @@
 ## Minimax
 |  |
 | ------- |
+| [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Counting
 |  |
@@ -39,6 +42,7 @@
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Nim Game
@@ -48,6 +52,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Dynamic Programming
 |  |
@@ -55,6 +60,7 @@
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -139,4 +145,8 @@
 |  |
 | ------- |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 <!---LeetCode Topics End-->
