@@ -15,6 +15,7 @@
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
