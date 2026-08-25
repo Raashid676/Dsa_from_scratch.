@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
@@ -109,6 +111,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 ## Graph Theory
@@ -130,6 +134,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
