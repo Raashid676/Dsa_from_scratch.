@@ -164,6 +164,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
+## Sliding Window
+|  |
+| ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
