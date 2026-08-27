@@ -80,6 +80,7 @@
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -123,6 +124,7 @@
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 ## Union-Find
@@ -140,6 +142,7 @@
 | [0210-course-schedule-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -197,4 +201,12 @@
 |  |
 | ------- |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
