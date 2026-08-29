@@ -10,6 +10,7 @@
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
@@ -128,6 +129,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1171-shortest-path-in-binary-matrix) |
 ## Combinatorics
 |  |
 | ------- |
