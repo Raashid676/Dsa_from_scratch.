@@ -14,6 +14,7 @@
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4080-smallest-missing-multiple-of-k) |
@@ -135,6 +136,7 @@
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
