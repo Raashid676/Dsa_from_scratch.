@@ -13,6 +13,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
+| [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
 | [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -87,10 +88,12 @@
 | [0820-find-eventual-safe-states](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -132,6 +135,7 @@
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -140,6 +144,7 @@
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
@@ -159,6 +164,7 @@
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
 ## Combinatorics
 |  |
 | ------- |
@@ -224,4 +230,12 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
