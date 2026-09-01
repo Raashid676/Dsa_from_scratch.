@@ -21,6 +21,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
@@ -117,6 +118,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4080-smallest-missing-multiple-of-k) |
