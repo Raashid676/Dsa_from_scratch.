@@ -20,6 +20,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -110,6 +111,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -117,6 +119,7 @@
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -169,6 +173,7 @@
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1753-path-with-minimum-effort) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
