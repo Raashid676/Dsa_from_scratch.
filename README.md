@@ -6,6 +6,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0200-number-of-islands) |
+| [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
@@ -25,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
@@ -42,6 +44,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Counting
@@ -52,6 +55,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
@@ -63,11 +67,13 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0803-cheapest-flights-within-k-stops) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -252,4 +258,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0803-cheapest-flights-within-k-stops) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
