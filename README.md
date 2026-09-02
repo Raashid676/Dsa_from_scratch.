@@ -8,6 +8,7 @@
 | [0200-number-of-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
@@ -96,6 +97,7 @@
 | [0207-course-schedule](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0803-cheapest-flights-within-k-stops) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -147,6 +150,7 @@
 | [0210-course-schedule-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0803-cheapest-flights-within-k-stops) |
@@ -163,6 +167,7 @@
 | [0130-surrounded-regions](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -215,6 +220,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -253,6 +259,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -279,11 +286,11 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
-## BellmanÃÂ¢ÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## FloydÃÂ¢ÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂ¢ÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
