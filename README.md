@@ -27,6 +27,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4258-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4258-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -291,11 +293,11 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
-## BellmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## FloydÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
