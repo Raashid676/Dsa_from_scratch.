@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -130,6 +131,7 @@
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
 | [1487-cinema-seat-allocation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1487-cinema-seat-allocation) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -267,6 +270,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0721-accounts-merge) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -293,11 +297,11 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
-## BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
