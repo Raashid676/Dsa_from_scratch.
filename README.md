@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [1685-stone-game-v](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2002-stone-game-viii) |
@@ -81,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0803-cheapest-flights-within-k-stops) |
@@ -297,12 +299,16 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0486-predict-the-winner) |
-## BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
