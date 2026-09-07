@@ -1,28 +1,29 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int n = numbers.length;
-        int i = 0;
+        int l = 0;
         int j = n - 1;
 
 
-        while(i < j){
-            int sum = numbers[i] + numbers[j];
+        while(l < j){
+
+            int sum = numbers[l] + numbers[j];
 
             if(sum == target){
-                return new int []{i+1,j+1};
+                return new int []{l+1, j+1};
+            }
+            
+            if(sum < target){
+                l++;
             }
 
-            if(sum < target){
-                i++;
-            }
-            else if (sum > target){
+            else{
                 j--;
             }
-
-
         }
 
-        return new int[]{-1, -1};
+        return new int []{-1, -1};
+      
      
         
     }
