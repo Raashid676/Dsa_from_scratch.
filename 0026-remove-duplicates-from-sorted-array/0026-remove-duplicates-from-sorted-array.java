@@ -3,25 +3,22 @@ class Solution {
         int n = nums.length;
         int l = 0;
         int res = 1;
-        int h = 1;
+        int ex = 1;
 
-        while(h < n){
-
-            if(nums[h] == nums[h - 1]){
-                h++;
+        while(ex < n){
+            if(nums[ex] == nums[ex - 1]){
+                ex++;
                 continue;
             }
             else{
 
-
-                nums[l+1] = nums[h];
+                nums[l+1] = nums[ex];
                 l++;
                 res++;
-                h++;
+                ex++;
             }
         }
-
-        return res;
+       return res;
         
     }
 }
