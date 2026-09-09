@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [4245-count-commas-in-range](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4248-count-commas-in-range-ii) |
 ## Array
 |  |
 | ------- |
