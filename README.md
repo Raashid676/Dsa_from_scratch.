@@ -32,4 +32,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
