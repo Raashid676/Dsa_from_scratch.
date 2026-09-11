@@ -12,6 +12,7 @@
 | [0015-3sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
+| [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,16 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
