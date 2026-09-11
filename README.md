@@ -14,6 +14,7 @@
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +61,16 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
+## Hash Table
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
