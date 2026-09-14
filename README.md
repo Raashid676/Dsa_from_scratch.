@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0866-rectangle-overlap) |
 | [4245-count-commas-in-range](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4248-count-commas-in-range-ii) |
 ## Array
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0864-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
