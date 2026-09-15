@@ -14,6 +14,7 @@
 | [0016-3sum-closest](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [0864-image-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0864-image-overlap) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -56,15 +57,18 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
