@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0866-rectangle-overlap) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4248-count-commas-in-range-ii) |
 ## Array
@@ -71,6 +72,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
