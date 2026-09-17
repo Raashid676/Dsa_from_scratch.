@@ -29,6 +29,7 @@
 | [0016-3sum-closest](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0392-is-subsequence) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0392-is-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0003-longest-substring-without-repeating-characters) |
+| [0392-is-subsequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
