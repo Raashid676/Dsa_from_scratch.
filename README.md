@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [0864-image-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0864-image-overlap) |
+| [0940-fruit-into-baskets](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0940-fruit-into-baskets) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -67,6 +68,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0940-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0940-fruit-into-baskets) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
