@@ -38,6 +38,7 @@
 | [0016-3sum-closest](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -88,6 +89,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0940-fruit-into-baskets) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -119,10 +121,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
