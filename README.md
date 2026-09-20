@@ -131,6 +131,7 @@
 | [0567-permutation-in-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0567-permutation-in-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3811-reverse-degree-of-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
