@@ -7,6 +7,7 @@
 | [0866-rectangle-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3831-find-x-value-of-array-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3831-find-x-value-of-array-i) |
 | [4245-count-commas-in-range](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4248-count-commas-in-range-ii) |
 ## Array
@@ -24,6 +25,7 @@
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3831-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3831-find-x-value-of-array-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3831-find-x-value-of-array-i) |
 ## Matrix
 |  |
 | ------- |
