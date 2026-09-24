@@ -9,6 +9,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3831-find-x-value-of-array-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3840-find-x-value-of-array-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4245-count-commas-in-range](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4248-count-commas-in-range-ii) |
 ## Array
@@ -29,6 +30,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3840-find-x-value-of-array-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
