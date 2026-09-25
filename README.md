@@ -185,6 +185,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
 ## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
