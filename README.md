@@ -19,6 +19,7 @@
 | [0016-3sum-closest](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [0864-image-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0864-image-overlap) |
@@ -49,6 +50,7 @@
 | [0016-3sum-closest](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -105,6 +107,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0940-fruit-into-baskets) |
@@ -174,4 +177,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
