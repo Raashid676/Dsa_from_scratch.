@@ -26,6 +26,7 @@
 | [0940-fruit-into-baskets](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0940-fruit-into-baskets) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
@@ -116,6 +117,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -153,6 +155,7 @@
 | [0567-permutation-in-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0567-permutation-in-string) |
 | [1188-brace-expansion-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
@@ -188,11 +191,11 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
