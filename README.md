@@ -18,6 +18,7 @@
 | [0015-3sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
@@ -130,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0392-is-subsequence) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -186,16 +188,17 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
