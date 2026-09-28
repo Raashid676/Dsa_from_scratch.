@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0202-happy-number) |
 | [0866-rectangle-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -43,6 +44,7 @@
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0567-permutation-in-string) |
@@ -114,6 +116,7 @@
 | [0076-minimum-window-substring](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0940-fruit-into-baskets) |
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -199,11 +203,11 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
