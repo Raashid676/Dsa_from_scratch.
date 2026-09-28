@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [0864-image-overlap](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0864-image-overlap) |
 | [0940-fruit-into-baskets](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0940-fruit-into-baskets) |
@@ -42,6 +43,7 @@
 | [0018-4sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0567-permutation-in-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0713-subarray-product-less-than-k) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,11 +199,11 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0169-majority-element) |
@@ -220,4 +224,12 @@
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
