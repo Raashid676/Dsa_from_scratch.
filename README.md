@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0886-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0886-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +23,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0886-score-of-parentheses) |
 ## Array
 |  |
 | ------- |
