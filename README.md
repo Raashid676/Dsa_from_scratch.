@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
