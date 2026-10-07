@@ -31,9 +31,15 @@
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
