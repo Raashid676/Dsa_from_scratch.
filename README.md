@@ -26,6 +26,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0724-find-pivot-index) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,4 +57,16 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
