@@ -40,6 +40,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0724-find-pivot-index) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2844-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
