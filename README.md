@@ -28,6 +28,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
