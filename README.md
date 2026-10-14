@@ -44,6 +44,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4084-maximize-sum-of-squares-of-digits) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
