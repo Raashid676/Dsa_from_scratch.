@@ -48,6 +48,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2844-sum-of-squares-of-special-elements) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Backtracking
@@ -106,9 +108,11 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
