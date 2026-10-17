@@ -46,6 +46,7 @@
 | [0724-find-pivot-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1185-find-in-mountain-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2844-sum-of-squares-of-special-elements) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
@@ -81,6 +82,7 @@
 | [0162-find-peak-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1185-find-in-mountain-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1185-find-in-mountain-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -118,4 +121,8 @@
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
