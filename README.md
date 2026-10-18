@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1185-find-in-mountain-array) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2844-sum-of-squares-of-special-elements) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
@@ -107,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Ternary Search
 |  |
@@ -127,4 +130,36 @@
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1185-find-in-mountain-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
