@@ -60,6 +60,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4257-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4257-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2844-sum-of-squares-of-special-elements) |
+| [4257-sum-of-sortable-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4257-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4257-sum-of-sortable-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4257-sum-of-sortable-integers) |
 ## Ternary Search
 |  |
 | ------- |
