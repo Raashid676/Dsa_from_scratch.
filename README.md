@@ -9,6 +9,7 @@
 | [0886-score-of-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
