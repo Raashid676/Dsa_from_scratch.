@@ -53,6 +53,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1185-find-in-mountain-array) |
+| [1380-number-of-closed-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1380-number-of-closed-islands) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1468-check-if-n-and-its-double-exist) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2210-find-target-indices-after-sorting-array) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0301-remove-invalid-parentheses) |
+| [1380-number-of-closed-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1380-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -187,8 +190,13 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0074-search-a-2d-matrix) |
+| [1380-number-of-closed-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1380-number-of-closed-islands) |
 ## Two Pointers
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1468-check-if-n-and-its-double-exist) |
+## Depth-First Search
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
