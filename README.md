@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0886-score-of-parentheses) |
@@ -194,6 +195,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0125-valid-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1468-check-if-n-and-its-double-exist) |
 ## Depth-First Search
 |  |
