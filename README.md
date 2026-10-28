@@ -17,6 +17,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4184-minimum-operations-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4257-sum-of-sortable-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4257-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
@@ -130,6 +132,7 @@
 | ------- |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0074-search-a-2d-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
