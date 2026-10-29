@@ -11,6 +11,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2496-count-days-spent-together](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2496-count-days-spent-together) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4257-sum-of-sortable-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4257-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
@@ -134,6 +136,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -152,11 +155,13 @@
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -165,10 +170,12 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -213,6 +220,7 @@
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Recursion
 |  |
 | ------- |
