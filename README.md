@@ -11,6 +11,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2496-count-days-spent-together](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2496-count-days-spent-together) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -225,4 +227,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1013-fibonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
