@@ -20,6 +20,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1013-fibonacci-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3938-twisted-mirror-path-count](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -69,6 +70,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3938-twisted-mirror-path-count](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -211,6 +213,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0074-search-a-2d-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3938-twisted-mirror-path-count](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
