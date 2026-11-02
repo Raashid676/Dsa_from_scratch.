@@ -55,6 +55,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0162-find-peak-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -119,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2418-minimum-sum-of-squared-difference) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1013-fibonacci-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raashid676/Dsa_from_scratch./tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/Raashid676/Dsa_from_scratch./tree/master/2496-count-days-spent-together) |
