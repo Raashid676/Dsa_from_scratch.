@@ -160,6 +160,7 @@
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raashid676/Dsa_from_scratch./tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4257-sum-of-sortable-integers](https://github.com/Raashid676/Dsa_from_scratch./tree/master/4257-sum-of-sortable-integers) |
 ## Ternary Search
 |  |
