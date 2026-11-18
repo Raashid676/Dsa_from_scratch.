@@ -3,7 +3,7 @@ package two_pointers;
 public class TapingRWater {
      public int trap(int[] height) {
         int n = height.length;
-        int totalWater = 0;
+        int totalW = 0;
 
         int leftMax = 0;
         int rightMax = 0;
@@ -17,16 +17,16 @@ public class TapingRWater {
 
 
             if(leftMax < rightMax){
-                totalWater += leftMax - height[st];
+                totalW += leftMax - height[st];
                 st++;
             }
             else {
 
-                totalWater += rightMax - height[end];
+                totalW += rightMax - height[end];
                 end--;
             }
         }
-        return totalWater;
+        return totalW;
         
     }
     
