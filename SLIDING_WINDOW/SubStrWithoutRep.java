@@ -20,7 +20,7 @@ public class SubStrWithoutRep {
                 }
 
                 set.add(s.charAt(j));
-                count++;
+                count= count + 1;
 
                 maxLen = Math.max(maxLen, count);
             }
